@@ -2,6 +2,10 @@
 - 👀 I’m interested in becoming a software engineer I'm dedicated to learning and growing in the field of software engineering, with interest in web development.
 - Web Development Enthusiast: I excel at creating responsive and visually appealing websites. I enjoy the challenge of translating design concepts into functional and efficient code.
 - Python & Django Proficient: I'm proficient in Python and have experience building web applications using the Django framework. I'm comfortable working with databases and implementing backend logic.
+- 😊 Skills: **Languages:** Python, HTML, CSS, JavaScript
+             **Frameworks/Libraries:** Django, React
+             **Databases:**  SQL (MySQL)
+             **Tools:** Git
 - 🌱 I’m currently learning: New technologies, new languages and new skills.  
 - 💞️ I’m looking to: Collaborating on interesting projects. Learning new technologies and expanding my skillset. Contributing to open-source projects.
 - 📫 How to reach me: Email: Briankash61@gmail.com Feel free to connect and reach out!  I'm always open to new opportunities and collaborations.
