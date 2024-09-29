@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Kalali I'm a software engineering student passionate about building engaging and user-friendly web applications.  I'm currently focused on honing my skills and building a strong portfolio of projects.
-- 👀 I’m interested in becoming a software engineer I'm dedicated to learning and growing in the field of software engineering, with interest in web development.
-- Web Development Enthusiast: I excel at creating responsive and visually appealing websites. I enjoy the challenge of translating design concepts into functional and efficient code.
-- Python & Django Proficient: I'm proficient in Python and have experience building web applications using the Django framework. I'm comfortable working with databases and implementing backend logic.
+- 👀 About Me: **I’m interested in becoming a software engineer** I'm dedicated to learning and growing in the field of software engineering, with interest in web development.
+**Web Development Enthusiast:** I excel at creating responsive and visually appealing websites. I enjoy the challenge of translating design concepts into functional and efficient code.
+**Python & Django Proficient:** I'm proficient in Python and have experience building web applications using the Django framework. I'm comfortable working with databases and implementing backend logic.
 - 😊 Skills: **Languages:** Python, HTML, CSS, JavaScript
              **Frameworks/Libraries:** Django, React
              **Databases:**  SQL (MySQL)
