@@ -4,7 +4,6 @@
 - 😊 Skills: **Languages:** Python, HTML, CSS, JavaScript, Node.Js
              **Frameworks/Libraries:** Django, React, Flask, 
              **Databases:**  SQL (MySQL)
-             **Tools:** Git
 - 🌱 I’m currently learning: New technologies, new languages and new skills.  
 - 😋 I’m looking to: Collaborating on interesting projects. Learning new technologies and expanding my skillset. Contributing to open-source projects.
 - 📫 How to reach me: Email: Briankash61@gmail.com. or https://www.linkedin.com/in/brian-kalali-99851a3a9?utm_source=share_via&utm_content=profile&utm_medium=member_android Feel free to connect and reach out!  I'm always open to new opportunities and collaborations.
