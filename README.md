@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Brian Kalali I'm a software engineering student passionate about building engaging and user-friendly web applications.  I'm currently focused on honing my skills and building a strong portfolio of projects.
 - 👀 About Me: **I’m interested in excelling as a software engineer** I'm dedicated to learning and growing in the field of software engineering, with interest in web development.
 - 😃 **Web Development Enthusiast:** I excel at creating responsive and visually appealing websites. I enjoy the challenge of translating design concepts into functional and efficient code.I'm comfortable working with databases and implementing backend logic.
-- 😊 Skills: **Languages:** Python, HTML, CSS, JavaScript, Node.Js **Frameworks/Libraries:** Django, React, Flask, Fast API, Express, Git, Termux **Databases:**  SQL (MySQL)
+- 😊 Skills: **Languages:** Python, HTML, CSS, JavaScript, Node.Js **Frameworks/Libraries:** Django, React, Flask, Fast API, Express, Git, Termux
+**Databases:**  SQL (MySQL)
+**Other:** APIs, Backend Systems, Automation, CLI Tools
 - 🚀 **Currently Working On** Developing web apps and APIs directly. I'm learning advanced Python and full-stack development  
 - 😋 I’m looking to: Collaborating on interesting projects. Learning new technologies and expanding my skillset. Contributing to open-source projects.
 - 📫 How to reach me: Email: Briankash61@gmail.com. or https://www.linkedin.com/in/brian-kalali-99851a3a9?utm_source=share_via&utm_content=profile&utm_medium=member_android Feel free to connect and reach out!  I'm always open to new opportunities and collaborations.
