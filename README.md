@@ -141,7 +141,6 @@ I'm always interested in collaborating on:
 * SaaS Products
 * Open Source Projects
 * Software Architecture
-* Technical Consulting
 
 
 # 📫 Connect With Me
