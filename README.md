@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Musau
+# 👋 Hi, I'm Brian Kalali
 
 ## Full-Stack Software Engineer | Founder of Kaliworks Technologies
 
@@ -146,7 +146,11 @@ I'm always interested in collaborating on:
 
 # 📫 Connect With Me
 
-**Email:** [briankash61@gmail.com](mailto:briankash61@gmail.com)
+**Personal Email:**
+📧 [briankash61@gmail.com](mailto:briankash61@gmail.com)
+
+**Business Email (Kaliworks Technologies):**
+📧 [kaliworks61@gmail.com](mailto:kaliworks61@gmail.com)
 
 **LinkedIn:**
 https://www.linkedin.com/in/brian-kalali-99851a3a9
