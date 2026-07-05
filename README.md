@@ -159,7 +159,7 @@ https://www.linkedin.com/in/brian-kalali-99851a3a9
 Kaliworks-Technologies
 
 
-> *"Building software that empowers businesses through clean architecture, scalable systems, and thoughtful engineering."*
+> *"Building digital systems the help businesses operate smarter."*
 
 <!---
 Bri-ankash/Bri-ankash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
